@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 The Board of Trustees of the Leland Stanford Junior University
+# SPDX-License-Identifier: MIT
+# Released under the MIT License; see the LICENSE file in this repository.
 """Reproduce the simulated figures and source data for the MPI signal-quenching paper.
 
     python MPI_signal_quenching_figures.py [--outdir OUTDIR]

@@ -1,3 +1,6 @@
+# Copyright (c) 2026 The Board of Trustees of the Leland Stanford Junior University
+# SPDX-License-Identifier: MIT
+# Released under the MIT License; see the LICENSE file in this repository.
 """MPI signal quenching -- dynamic-magnetization (Neel-Brown) simulation library.
 
 Macrospin model of the MPI signal of superparamagnetic nanoclusters: sinusoidal

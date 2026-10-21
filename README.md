@@ -120,7 +120,7 @@ The `manifest` sheet of the workbook records the versions of the run that wrote 
 > The code used to simulate the relaxation times, dynamic magnetization and
 > point-spread functions, and to generate the simulated panels of Figs. 1 and 2,
 > is available at [GITHUB URL] and archived on Zenodo (DOI: [ZENODO DOI]) under
-> the [MIT license]. The simulation uses Python 3.13.9 with NumPy 2.5.2, SciPy 1.18.1,
+> the MIT license. The simulation uses Python 3.13.9 with NumPy 2.5.2, SciPy 1.18.1,
 > Matplotlib 3.11.1, pandas 3.0.5 and openpyxl 3.1.5.
 
 ## AI-assistance disclosure
@@ -137,7 +137,9 @@ Please cite the manuscript and the archived release (see DOI above).
 
 ## License
 
-[MIT], see `LICENSE`.
+MIT, see `LICENSE`. Copyright (c) 2026 The Board of Trustees of the Leland Stanford
+Junior University. The code is authored by Jacob Bryan-Kim; for academic purposes,
+cite the manuscript and the archived release (see Citation).
 
 ## Acknowledgements
 The work described was supported, in part, by NIH awards R01CA271530-01A1, R01CA243033,1S10OD028536-01. 
