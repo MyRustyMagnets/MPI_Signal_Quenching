@@ -115,11 +115,11 @@ Figures and workbook were produced with:
 The `manifest` sheet of the workbook records the versions of the run that wrote it.
 `savefig` output depends on available fonts (Arial → Helvetica → DejaVu Sans).
 
-## Code availability statement (suggested)
+## Code availability statement
 
 > The code used to simulate the relaxation times, dynamic magnetization and
 > point-spread functions, and to generate the simulated panels of Figs. 1 and 2,
-> is available at [GITHUB URL] and archived on Zenodo (DOI: [ZENODO DOI]) under
+> is available at https://github.com/MyRustyMagnets/MPI_Signal_Quenching/tree/v1.0.0 and archived on Zenodo (DOI: https://doi.org/10.5281/zenodo.23522547)
 > the MIT license. The simulation uses Python 3.13.9 with NumPy 2.5.2, SciPy 1.18.1,
 > Matplotlib 3.11.1, pandas 3.0.5 and openpyxl 3.1.5.
 
