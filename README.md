@@ -1,13 +1,13 @@
 # MPI signal quenching: dynamic-magnetization (Néel–Brown) simulation
 
-Code and source data for the simulated panels of *Modulating Neel Relaxation in Iron Oxide Nanocrystal Clusters to Develop Smart Magnetic Particle Imaging Probes for in vivo Biological Sensing*
-([JOURNAL / DOI — fill in]). A macrospin model of the magnetic particle imaging
+Code and source data for the simulated panels of *"Modulating Néel Relaxation in Iron Oxide Nanocrystal Clusters to Develop Smart Magnetic Particle Imaging Probes for in vivo Biological Sensing*
+(submitted to *Nature Materials"*). A macrospin model of the magnetic particle imaging
 (MPI) signal of superparamagnetic iron-oxide nanoclusters, with and without a
 Gd³⁺-shell-induced increase in effective anisotropy ("quenching"). It computes
 relaxation times, the dynamic magnetization under a sinusoidal drive plus a
 linear bias ramp, and the resulting point-spread functions (PSFs).
 
-DOI of the archived release: **[10.5281/zenodo.23522547]**
+DOI of the archived release: **10.5281/zenodo.23522547**
 
 ## Files
 
