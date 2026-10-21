@@ -51,4 +51,4 @@ version: "v1.0.0"
 date-released: "2026-10-21"
 license: MIT
 repository-code: "https://github.com/MyRustyMagnets/MPI_Signal_Quenching"
-# doi: "<version DOI from Zenodo>"   # add after the release DOI is final
+# doi: "10.5281/zenodo.23522547"
