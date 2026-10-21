@@ -7,7 +7,7 @@ Gd³⁺-shell-induced increase in effective anisotropy ("quenching"). It compute
 relaxation times, the dynamic magnetization under a sinusoidal drive plus a
 linear bias ramp, and the resulting point-spread functions (PSFs).
 
-DOI of the archived release: **10.5281/zenodo.23522547**
+DOI of the archived release: **[10.5281/zenodo.23522547](https://doi.org/10.5281/zenodo.23522547)**
 
 ## Files
 
